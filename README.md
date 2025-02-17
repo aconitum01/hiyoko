@@ -13,6 +13,9 @@
 ## 遊び方
 操作方法はゲーム内の"あそびかた"に従ってください．
 
+## プレイ映像
+https://youtu.be/p49xvzVxMqc?si=Uvl-ZoowklmJi2F8
+
 ## 使用素材
 ### フォント
 - Jackey Font by Seto Nozomi (瀬戸のぞみ)
