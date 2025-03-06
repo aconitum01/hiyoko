@@ -5,8 +5,7 @@
 
 ## インストール方法
 1 [最新リリース](https://github.com/aconitum01/hiyoko/releases/latest)からgame.zipをダウンロードしてください．
-
-2. zipを解凍し，中のhiyoko.exeを実行するとゲームが起動します．
+2 zipを解凍し，中のhiyoko.exeを実行するとゲームが起動します．
 
 ## 遊び方
 操作方法はゲーム内の"あそびかた"に従ってください．
